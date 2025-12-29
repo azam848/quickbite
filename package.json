@@ -1,0 +1,30 @@
+{
+  "name": "quickbite",
+  "version": "1.0.0",
+  "description": "this is quickbite by Azam khan",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azam848/quickbite.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Azam khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azam848/quickbite/issues"
+  },
+  "homepage": "https://github.com/azam848/quickbite#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
